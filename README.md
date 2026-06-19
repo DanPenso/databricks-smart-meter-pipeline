@@ -35,9 +35,11 @@ Run in order from [`sql/`](sql/):
 2. `gold_peak_usage_tableau.sql` — build gold layer for Tableau
 3. `aggregate_peak_usage.sql` — simpler gold table (ACORN × hour only)
 
-Export `gold_peak_usage_tableau` to CSV for Tableau.
+Export `gold_peak_usage_tableau` to CSV for Tableau, or use the committed export in [`data/exports/london_energy_tableau.csv`](data/exports/london_energy_tableau.csv).
 
 ## Dashboard
+
+**Workbook:** [`tableau/London_energy.twb`](tableau/London_energy.twb)
 
 <!-- Uncomment when published to Tableau Public: -->
 <!-- **[View dashboard on Tableau Public](https://public.tableau.com/views/...)** -->
