@@ -41,11 +41,10 @@ Export `gold_peak_usage_tableau` to CSV for Tableau, or use the committed export
 
 **Workbook:** [`tableau/London_energy.twb`](tableau/London_energy.twb)
 
-<!-- Uncomment when published to Tableau Public: -->
-<!-- **[View dashboard on Tableau Public](https://public.tableau.com/views/...)** -->
+![London Affluent Household Electricity Use — Tableau dashboard](tableau/screenshots/dashboard.png)
 
-<!-- Add `tableau/screenshots/dashboard.png` and uncomment the line below -->
-<!-- ![Dashboard](tableau/screenshots/dashboard.png) -->
+<!-- Add when published to Tableau Public: -->
+<!-- **[View dashboard on Tableau Public](https://public.tableau.com/views/...)** -->
 
 ### Findings
 

@@ -7,4 +7,6 @@ Open the workbook from this folder in Tableau Desktop. If the data connection br
 
 Add a dashboard screenshot to `screenshots/` for GitHub preview.
 
+![Dashboard preview](screenshots/dashboard.png)
+
 If published to Tableau Public, add the live URL to the root [README.md](../README.md).
