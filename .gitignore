@@ -1,0 +1,17 @@
+# Raw meter readings (large — download from Kaggle)
+block_0.csv
+block_*.csv
+data/raw/
+
+# Tableau local cache
+~$*
+*.hyper
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Secrets
+.env
+*.token
