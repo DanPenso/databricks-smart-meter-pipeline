@@ -1,6 +1,7 @@
 # Databricks Smart Meter Pipeline
 
 End-to-end analytics project using **Databricks SQL** and **Tableau** to explore London household electricity usage from smart meter data.
+Databricks used to reduce the 1mill+ rows into a reduced dataset and Cursor and Tableau used to visualise this data into actionable insights.
 
 ## Pipeline
 
